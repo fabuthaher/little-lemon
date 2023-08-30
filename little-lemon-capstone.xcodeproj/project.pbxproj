@@ -24,6 +24,7 @@
 		C5F63F6B2A9E14110057AB25 /* MenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5F63F6A2A9E14110057AB25 /* MenuItem.swift */; };
 		C5F63F6E2A9E17650057AB25 /* ExampleDatabase.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C5F63F6C2A9E17650057AB25 /* ExampleDatabase.xcdatamodeld */; };
 		C5F63F712A9E195E0057AB25 /* DishRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5F63F702A9E195E0057AB25 /* DishRow.swift */; };
+		C5F63F742A9F46B80057AB25 /* little-lemon-fabuthaher-wireframe.png in Resources */ = {isa = PBXBuildFile; fileRef = C5F63F732A9F46B80057AB25 /* little-lemon-fabuthaher-wireframe.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +66,7 @@
 		C5F63F6D2A9E17650057AB25 /* ExampleDatabase.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ExampleDatabase.xcdatamodel; sourceTree = "<group>"; };
 		C5F63F702A9E195E0057AB25 /* DishRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DishRow.swift; sourceTree = "<group>"; };
 		C5F63F722A9F1F650057AB25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		C5F63F732A9F46B80057AB25 /* little-lemon-fabuthaher-wireframe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "little-lemon-fabuthaher-wireframe.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 		C5BB25F52A9A74DE007F5947 = {
 			isa = PBXGroup;
 			children = (
+				C5F63F732A9F46B80057AB25 /* little-lemon-fabuthaher-wireframe.png */,
 				C5BB26002A9A74DE007F5947 /* little-lemon-capstone */,
 				C5BB26162A9A74E1007F5947 /* little-lemon-capstoneTests */,
 				C5BB26202A9A74E1007F5947 /* little-lemon-capstoneUITests */,
@@ -279,6 +282,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C5F63F742A9F46B80057AB25 /* little-lemon-fabuthaher-wireframe.png in Resources */,
 				C5BB26092A9A74E0007F5947 /* Preview Assets.xcassets in Resources */,
 				C5BB26062A9A74E0007F5947 /* Assets.xcassets in Resources */,
 			);
